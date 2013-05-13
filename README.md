@@ -26,9 +26,11 @@ Les traductions sont souvent approximative, si vous en avez de meilleures à pro
 ### Installation
 
 Pour jouer en français:
-Faire une copie de sauvegarde de votre dossier data.
-Faire une copie de sauvegarde de votre monde si vous en avez un. ( Normalement la traduction n'altère pas les sauvegardes )
-Remplacer les fichiers dans votre dossier data par ceux proposé ici. 
+
+-Faire une copie de sauvegarde de votre dossier data.
+-Faire une copie de sauvegarde de votre monde si vous en avez un. ( Normalement la traduction n'altère pas les sauvegardes )
+-Remplacer les fichiers dans votre dossier data par ceux proposé ici. 
+
 Voilà c'est tout, vous pouvez lancer le jeu!
 
 
